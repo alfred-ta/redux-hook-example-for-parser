@@ -5097,10 +5097,10 @@ forever-agent@~0.6.1:
   resolved "https://registry.yarnpkg.com/forever-agent/-/forever-agent-0.6.1.tgz#fbc71f0c41adeb37f96c577ad1ed42d8fdacca91"
   integrity sha512-j0KLYPhm6zeac4lz3oJ3o65qvgQCcPubiyotZrXqEaG4hNagNYO8qdlUrX5vwqv9ohqeT/Z3j6+yW067yWWdUw==
 
-forge-vuex-parser@^1.0.69:
-  version "1.0.69"
-  resolved "https://registry.yarnpkg.com/forge-vuex-parser/-/forge-vuex-parser-1.0.69.tgz#d674ebb9ac8daa443ee06b331626034cb90bd5d3"
-  integrity sha512-K/bFrt9qW3WZzcdt+rXOdkAWvuRz/qIaadquDvvmy49tMyVG7aCE0jI5GtjsTgUwcttJw+uSsEK1Np+tv4Y0pA==
+forge-vuex-parser@^1.1.00:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/forge-vuex-parser/-/forge-vuex-parser-1.1.0.tgz#113c5086df983275a485e45cf4cff81da8a8df93"
+  integrity sha512-Y7Y6ouAa5hz69Md2rQ228WVfEe4Q1DvO9PYMNg6EeFV6jUY1aKIzQLu44LZ3Y/XAMIAAzwJCISpodD73t9wohw==
   dependencies:
     "@babel/cli" "^7.14.8"
     "@babel/core" "^7.15.0"
